@@ -2,8 +2,12 @@
 
 # Casey Jenson
 
-I am the program assistant at [Earth Lab](https://earthlab.colorado.edu/)
+I am the program assistant at [Earth Lab](https://earthlab.colorado.edu/our-team/casey-jenson) and [ESIIL](https://esiil.org/).
+
+## Background
 My background is in: 
 - science communication
 - invasive species
 - ecology
+
+## Contact
