@@ -25,7 +25,15 @@ Below are notable workshops and trainings that I've helped develop & coordinate:
 - [2024 NASA-ESIIL](https://esiil.org/hyr-sense) Hyperspectral and Thermal Remote Sensing for Environmental Justice
 - [2024 ESIIL Innovation Summit](https://esiil.org/innovation-summit): Big Data for Environmental Resilience and Adaptation 
 - 2023 - 2024 NC RISCC Ecological Transformation Workshop Series
-- 2023 ESIIL Innovation Summit
+- 2023 & 2024 ESIIL Innovation Summit
+
+## Trainings
+Below are notable trainings and workshops that I've attended & completed:
+- 2024 Equity Focused Dialogic Skills Workshop series
+- 2024 How Temporary Assignments Boost Innovation, powered by MIT SMR
+- 2024 Working Collaboratively with Experts
+- 2023-2024 NC CASC Science Communication Training series
+- Dec 2023 NC CASC The Art and Science of Developing a Menu of Climate Change Adaptation Actions for Managing Wildlife and Ecosystems
 
 
 ## Publications
