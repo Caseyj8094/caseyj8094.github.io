@@ -27,8 +27,9 @@ Below are notable workshops and trainings that I've helped develop & coordinate:
 - 2023 - 2024 NC RISCC Ecological Transformation Workshop Series
 - 2023 & 2024 ESIIL Innovation Summit
 
-## Trainings
+## Workshops & Trainings
 Below are notable trainings and workshops that I've attended & completed:
+- 2024 Macrosystems Ecology For All (MEFA) Second Annual Meeting
 - 2024 Equity Focused Dialogic Skills Workshop series
 - 2024 How Temporary Assignments Boost Innovation, powered by MIT SMR
 - 2024 Working Collaboratively with Experts
