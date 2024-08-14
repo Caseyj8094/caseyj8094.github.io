@@ -29,6 +29,7 @@ Below are notable workshops and trainings that I've helped develop & coordinate:
 
 ## Workshops & Trainings
 Below are notable trainings and workshops that I've attended & completed:
+- 2024 NASA ARSET - Invasive Species Monitoring with Remote Sensing (in progess) 
 - 2024 Macrosystems Ecology For All (MEFA) Second Annual Meeting
 - 2024 Equity Focused Dialogic Skills Workshop series
 - 2024 How Temporary Assignments Boost Innovation, powered by MIT SMR
