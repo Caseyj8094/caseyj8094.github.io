@@ -2,40 +2,40 @@
 
 # Casey Jenson
 
-I am the program assistant at [Earth Lab](https://earthlab.colorado.edu/our-team/casey-jenson) and [ESIIL](https://esiil.org/) and a Professional Research Associate at [CIRES](https://cires.colorado.edu/) at the University of Colorado Boulder. I am also a member of the North Central Regional Invasive Species and Climate Change ([RISCC](https://nc-riscc.org/)) Network.
+I am the program assistant at [Earth Lab](https://earthlab.colorado.edu/our-team/casey-jenson) and [ESIIL](https://esiil.org/) and a Professional Research Associate at [CIRES](https://cires.colorado.edu/) at the University of Colorado Boulder. I am also a member of the North Central Regional Invasive Species and Climate Change ([RISCC](https://nc-riscc.org/)).
 
 ## Background
-I earned my Bachelor of Arts in Envrionmental Science and Graphic Design from [Concordia College](https://www.concordiacollege.edu/) in Dec 2020. 
+I earned my Bachelor of Arts in Envrionmental Science and Graphic Design from [Concordia College](https://www.concordiacollege.edu/) in December 2020. 
 
-In the fall of 2024 I will be attending The University of Colorado's Master of Science in Environmental Sciences program. 
+I am currently a graduate student in The University of Colorado's Master of Science in Environmental Sciences program. 
 
 My background and interests are in: 
 - Invasive Species Biogeography
 - Ecology
-- Water quality
+- Water Quality
 - Science Communication
 
-I've also led several research projects in microplastics, ecology, conservation, invasive speices biogeography, and marine science. 
+I've also led several research projects within a range of topics including,  microplastics, ecology, conservation, invasive speices biogeography, and marine science. 
 
 ## Biography
-I was born and raised in the lakes region of Minnesota where I gained a passion for science behind our environment. Currently, I reside in Colorado where I am gaining firsthand knowledge of the Front Range region of the Rockies. 
+I was born and raised in the lakes region of Minnesota where I gained a passion for environmental scinece and ecology. Currently, I reside in Colorado where I am learning about and enjoying the Front Range region of the Rocky Mountains. 
 
 ## Events
 Below are notable workshops and trainings that I've helped develop & coordinate:
 - [2024 NASA-ESIIL](https://esiil.org/hyr-sense) Hyperspectral and Thermal Remote Sensing for Environmental Justice
 - [2024 ESIIL Innovation Summit](https://esiil.org/innovation-summit): Big Data for Environmental Resilience and Adaptation 
 - 2023 - 2024 NC RISCC Ecological Transformation Workshop Series
-- 2023 & 2024 ESIIL Innovation Summit
+- 2023 ESIIL Innovation Summit
 
 ## Workshops & Trainings
 Below are notable trainings and workshops that I've attended & completed:
-- 2024 NASA ARSET - Invasive Species Monitoring with Remote Sensing Certificate
-- 2024 Macrosystems Ecology For All (MEFA) Second Annual Meeting
-- 2024 Equity Focused Dialogic Skills Workshop series
-- 2024 How Temporary Assignments Boost Innovation, powered by MIT SMR
-- 2024 Working Collaboratively with Experts
-- 2023-2024 NC CASC Science Communication Training series
-- Dec 2023 NC CASC The Art and Science of Developing a Menu of Climate Change Adaptation Actions for Managing Wildlife and Ecosystems
+- 2024 Invasive Species Monitoring with Remote Sensing Certificate, [NASA ARSET](https://appliedsciences.nasa.gov/get-involved/training/english/arset-invasive-species-monitoring-remote-sensing)
+- 2024 Macrosystems Ecology For All Second Annual Meeting, [MEFA](https://erenweb.org/mefa-home/), EREN
+- 2024 Equity Focused Dialogic Skills Workshop series, University of Colorado Boulder
+- 2024 How Temporary Assignments Boost Innovation, powered by MIT SMR at the University of Colorado Boulder
+- 2024 Working Collaboratively with Experts, University of Colorado Boulder
+- 2023-2024 Science Communication Training series, [NC CASC](https://nccasc.colorado.edu/)
+- Dec 2023 The Art and Science of Developing a Menu of Climate Change Adaptation Actions for Managing Wildlife and Ecosystems, [NC CASC](https://nccasc.colorado.edu/)
 
 
 ## Publications
