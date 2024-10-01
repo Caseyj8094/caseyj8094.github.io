@@ -2,7 +2,7 @@
 
 # Casey Jenson
 
-I am the program assistant at [Earth Lab](https://earthlab.colorado.edu/our-team/casey-jenson) and [ESIIL](https://esiil.org/) and a Professional Research Associate at [CIRES](https://cires.colorado.edu/) at the University of Colorado Boulder. I am also a member of the North Central Regional Invasive Species and Climate Change ([RISCC](https://nc-riscc.org/)).
+I am the program assistant at [Earth Lab](https://earthlab.colorado.edu/our-team/casey-jenson) and [ESIIL](https://esiil.org/) and a Professional Research Associate Scientist at [CIRES](https://cires.colorado.edu/) at the University of Colorado Boulder. I am also a member of the North Central Regional Invasive Species and Climate Change Network team ([RISCC](https://nc-riscc.org/)).
 
 ## Background
 I earned my Bachelor of Arts in Envrionmental Science and Graphic Design from [Concordia College](https://www.concordiacollege.edu/) in December 2020. 
@@ -15,10 +15,7 @@ My background and interests are in:
 - Water Quality
 - Science Communication
 
-I've also led several research projects within a range of topics including,  microplastics, ecology, conservation, invasive speices biogeography, and marine science. 
-
-## Biography
-I was born and raised in the lakes region of Minnesota where I gained a passion for environmental scinece and ecology. Currently, I reside in Colorado where I am learning about and enjoying the Front Range region of the Rocky Mountains. 
+I've also led several research projects within a range of topics including,  microplastics, conservation, evolutionary biology, and marine science. 
 
 ## Events
 Below are notable workshops and trainings that I've helped develop & coordinate:
@@ -32,7 +29,7 @@ Below are notable trainings and workshops that I've attended & completed:
 - 2024 Invasive Species Monitoring with Remote Sensing Certificate, [NASA ARSET](https://appliedsciences.nasa.gov/get-involved/training/english/arset-invasive-species-monitoring-remote-sensing)
 - 2024 Macrosystems Ecology For All Second Annual Meeting, [MEFA](https://erenweb.org/mefa-home/), EREN
 - 2024 Equity Focused Dialogic Skills Workshop series, University of Colorado Boulder
-- 2024 How Temporary Assignments Boost Innovation, powered by MIT SMR at the University of Colorado Boulder
+- 2024 How Temporary Assignments Boost Innovation, MIT SMR at the University of Colorado Boulder
 - 2024 Working Collaboratively with Experts, University of Colorado Boulder
 - 2023-2024 Science Communication Training series, [NC CASC](https://nccasc.colorado.edu/)
 - Dec 2023 The Art and Science of Developing a Menu of Climate Change Adaptation Actions for Managing Wildlife and Ecosystems, [NC CASC](https://nccasc.colorado.edu/)
