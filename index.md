@@ -26,6 +26,7 @@ Below are notable workshops and trainings that I've helped develop & coordinate:
 
 ## Workshops & Trainings
 Below are notable trainings and workshops that I've attended & completed:
+- 2024 Intro to Plankton, Aerosol, Cloud, Ocean Ecosystem (PACE) Hyperspectral Observations for Water Quality Monitoring, [NASA ARSET](https://appliedsciences.nasa.gov/get-involved/training/english/arset-introduction-plankton-aerosol-cloud-ocean-ecosystem-pace)
 - 2024 Invasive Species Monitoring with Remote Sensing Certificate, [NASA ARSET](https://appliedsciences.nasa.gov/get-involved/training/english/arset-invasive-species-monitoring-remote-sensing)
 - 2024 Macrosystems Ecology For All Second Annual Meeting, [MEFA](https://erenweb.org/mefa-home/), EREN
 - 2024 Equity Focused Dialogic Skills Workshop series, University of Colorado Boulder
