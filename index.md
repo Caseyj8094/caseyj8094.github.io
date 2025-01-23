@@ -37,8 +37,17 @@ Below are notable trainings and workshops that I've attended & completed:
 
 
 ## Publications
-View my Earth Lab Newsletters [here](https://earthlab.colorado.edu/engage/newsletter)
 
 Fisher, K., Post, A. K., Hobart, B., Ilangakoon, N., **Jenson, C.**, Maiya, A., Moss, W., & Nagy, R. C. (2024). NC RISCC Management Challenge: RAD Framework and Ecological Transformation. Zenodo. [https://doi.org/10.5281/zenodo.12207497](https://doi.org/10.5281/zenodo.12207497)
 
 Nagy, R. C., Woolner, E., Moss, W., **Jenson, C.**, De Silva, I., Fisher, K., Evans, A., Hobart, B., Balch, J., Berger, M., Ilangakoon, N., & Read, N. (2023). NC RISCC Practitioner Survey Report 2023. Zenodo. [https://doi.org/10.5281/zenodo.10095031](https://doi.org/10.5281/zenodo.10095031)
+
+View my Earth Lab Newsletters [here](https://earthlab.colorado.edu/engage/newsletter)
+
+- Jenson, C., Post, A. K., & Nagy, R. C. (2025). Earth Lab Newsletter January 2025. Zenodo. https://doi.org/10.5281/zenodo.14721255
+- Jenson, C., Post, A. K., & Nagy, R. C. (2024). Earth Lab Newsletter September 2024. Zenodo. https://doi.org/10.5281/zenodo.13988080
+- Jenson, C., & Post, A. K. (2024). Earth Lab Newsletter April 2024. Zenodo. https://doi.org/10.5281/zenodo.14285701
+- Jenson, C., Post, A. K., & Nagy, R. C. (2024). Earth Lab Newsletter January 2024. Zenodo. https://doi.org/10.5281/zenodo.14166036
+- Jenson, C., Post, A. K., & Nagy, R. C. (2024). Earth Lab Newsletter September 2023. Zenodo. https://doi.org/10.5281/zenodo.14285779
+- Jenson, C., Post, A. K., & Nagy, R. C. (2024). Earth Lab Newsletter May 2023. Zenodo. https://doi.org/10.5281/zenodo.14285795
+- Jenson, C., Nagy, R. C., & Post, A. K. (2025). Earth Lab Newsletter February 2023. Zenodo. https://doi.org/10.5281/zenodo.14727078
