@@ -4,7 +4,7 @@
 I am currently a graduate student in The University of Colorado's Master of Science in Environmental Sciences program. 
 Current projects include: 
 - Thermal sensing of Green Infrastructure in Denver,CO.
-- Assessing the Impact of Urban Heat Islands on Bumble Bee Populations in the Greater Denver Metro Area
+- Assessing the Impact of Urban Heat Islands on Bumble Bee Populations in Colorado.
 
 
 I am also the program assistant at [Earth Lab](https://earthlab.colorado.edu/our-team/casey-jenson) and [ESIIL](https://esiil.org/) and a Professional Research Associate Scientist at [CIRES](https://cires.colorado.edu/) at the University of Colorado Boulder. I am also a member of the North Central Regional Invasive Species and Climate Change Network team ([RISCC](https://nc-riscc.org/)).
@@ -15,11 +15,12 @@ I earned my Bachelor of Arts in Envrionmental Science & Sustainability, and Grap
 
 My background and interests are in: 
 - Ecology
-- Invasive Species Biogeography
+- Invasive Species Management
 - Hydrology
 - Science Communication
+- Sustainability
 
-I've also led several research projects within a range of topics including,  microplastics, conservation, evolutionary biology, and marine science. 
+I've also led several research projects within a range of topics:  microplastics, conservation, evolutionary biology, marine science, and urban heat islands. 
 
 ## Events
 Below are notable workshops and trainings that I've helped develop & coordinate:
