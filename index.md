@@ -11,7 +11,7 @@ I am also the program assistant at [Earth Lab](https://earthlab.colorado.edu/our
 
 
 ## Background
-I earned my Bachelor of Arts in Envrionmental Science & Sustainability, and Graphic Design from [Concordia College](https://www.concordiacollege.edu/). 
+I earned my Bachelor's in Envrionmental Science & Sustainability, and Graphic Design from [Concordia College](https://www.concordiacollege.edu/). 
 
 I have also completed several certificate courses in remote sensing, and data analytics:
 - 2025 Data Science: R Basics, [Harvard University EdX] (https://home.edx.org/)
@@ -24,7 +24,12 @@ My background and interests are in:
 - Science Communication
 - Urban Sustainability and Green Infrastructure
 
-I've also led several research projects within a range of topics:  conservation, evolutionary biology, marine science, urban heat islands, and green infrastructure. 
+I've also led several research projects within a range of topics including:  conservation biology, evolutionary biology, marine science, urban heat islands, and green infrastructure. 
+
+## Skills & Programs & Langauges
+- Adobe Illustrator & InDesign, Canva, Figma
+- ArcGISpro, ArcMap, Drupal, ESRI online, Excel, MatLab
+- CSS, GitHub, HTML, Markdown, R, 
 
 ## Events
 Below are notable workshops and trainings that I've helped develop & coordinate:
