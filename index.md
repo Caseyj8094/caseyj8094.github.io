@@ -3,11 +3,11 @@
 # Casey Jenson
 I am currently a graduate student in The University of Colorado's Master of Science in Environmental Sciences program. 
 Some of my recent projects inclue: 
-- Thermal sensing of Green Infrastructure in Denver,CO.
+- Thermal sensing of Green Infrastructure in Denver, CO.
 - Assessing the Impact of Urban Heat Islands on Bumble Bee Populations in Colorado.
 
 
-I am also the program assistant at [Earth Lab](https://earthlab.colorado.edu/our-team/casey-jenson) and [ESIIL](https://esiil.org/) and a Research Associate Scientist at [CIRES](https://cires.colorado.edu/) at the University of Colorado Boulder. I am also a member of the North Central Regional Invasive Species and Climate Change Network team ([RISCC](https://nc-riscc.org/)).
+I am also a Research Associate Scientist at [CIRES](https://cires.colorado.edu/) and the program assistant at [Earth Lab](https://earthlab.colorado.edu/our-team/casey-jenson) and [ESIIL](https://esiil.org/) and at the University of Colorado Boulder. I am also a member of the North Central Regional Invasive Species and Climate Change Network team ([RISCC](https://nc-riscc.org/)).
 
 
 ## Background
