@@ -53,3 +53,5 @@ View my CU Denver Student Wellness Center Evacuation Routes [here](https://www.g
 
 This map was created using Google My maps for GEOG 5230 Hazard Mitigation and Vulnerability Assessments. 
 The meeting spots indicate gathering locations in the event of an earthquake and are >500 feet from the Wellness Center, as per Auraria Campus Emergency Procedures.
+
+![Evacuation Map](img/Evac_map.png "Map1")
