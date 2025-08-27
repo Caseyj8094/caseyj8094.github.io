@@ -65,3 +65,9 @@ View my Earth Lab Newsletters [here](https://earthlab.colorado.edu/engage/newsle
 - Jenson, C., Post, A. K., & Nagy, R. C. (2024). Earth Lab Newsletter September 2023. Zenodo. https://doi.org/10.5281/zenodo.14285779
 - Jenson, C., Post, A. K., & Nagy, R. C. (2024). Earth Lab Newsletter May 2023. Zenodo. https://doi.org/10.5281/zenodo.14285795
 - Jenson, C., Nagy, R. C., & Post, A. K. (2025). Earth Lab Newsletter February 2023. Zenodo. https://doi.org/10.5281/zenodo.14727078
+
+
+
+# Portfolio 
+GEOG 5230: Hazards and Vulnerability Assessments Project Protfolio 
+View my Map 1 Evacuation Routes [here](https://www.google.com/maps/d/edit?mid=1Ey24iWJpwq1pjKHYavdwLnxPb2GXFQo&usp=sharing)
