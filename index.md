@@ -49,4 +49,7 @@ View my Earth Lab Newsletters [here](https://earthlab.colorado.edu/engage/newsle
 # Graduate Portfolio 
 ## GEOG 5230: Hazards and Vulnerability Assessments Project Portfolio 
 
-View my Map 1 Evacuation Routes [here](https://www.google.com/maps/d/edit?mid=1Ey24iWJpwq1pjKHYavdwLnxPb2GXFQo&usp=sharing)
+View my CU Denver Student Wellness Center Evacuation Routes [here](https://www.google.com/maps/d/edit?mid=1Ey24iWJpwq1pjKHYavdwLnxPb2GXFQo&usp=sharing).
+
+This map was created using Google My maps for GEOG 5230 Hazard Mitigation and Vulnerability Assessments. 
+The meeting spots indicate gathering locations in the event of an earthquake and are >500 feet from the Wellness Center, as per Auraria Campus Emergency Procedures.
